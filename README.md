@@ -1,3 +1,5 @@
+**Rapido Clone Project**
+
 🛵 Rapido Clone
 A clone of the Rapido bike taxi website/app built using HTML5, CSS3, and vanilla JavaScript. This project was created to practice front-end web development and UI/UX design techniques.
 
