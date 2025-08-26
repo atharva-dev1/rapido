@@ -6,7 +6,7 @@ A front-end clone of the **Rapido** bike taxi platform, built using **HTML5**, *
 
 ## 📺 Live Demo
 
-👉 [View Live](#) *(Replace with your actual GitHub Pages link)*
+👉 [View Live](https://atharva-dev1.github.io/rapido/) 
 
 ---
 
